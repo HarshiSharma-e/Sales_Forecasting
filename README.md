@@ -17,6 +17,7 @@ The data has already been provided by Analytics Vidhya on the [Hackathon Page](h
 [ScikitLearn](https://scikit-learn.org/stable/)<br/>
 [Pandas](https://pandas.pydata.org/)<br/>
 [Seaborn](https://seaborn.pydata.org/)<br/>
+[Matplotlib](https://matplotlib.org/)<br/>
 
 #### This notebook can be run interactively on Google Colab or on Jupyter
 
