@@ -1,4 +1,4 @@
-# Sales_Forecasting
+# Sales Forecasting using Machine Learning
 ## Objective
 The main objective of this project is to predict the sale for a retail unit in the future, given the data of previous sales. The first part of this project involves generating a hypothesis about the given data and then exploring the dataset to extract features from raw data via data mining techniques.<br/><br/>
 
