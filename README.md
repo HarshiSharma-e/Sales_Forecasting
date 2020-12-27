@@ -19,7 +19,7 @@ The data has already been provided by Analytics Vidhya on the [Hackathon Page](h
 [Seaborn](https://seaborn.pydata.org/)<br/>
 [Matplotlib](https://matplotlib.org/)<br/>
 
-#### This notebook can be run interactively on Google Colab or on Jupyter
+#### This notebook can be run interactively on Google Colab or using Jupyter Notebook
 
 ## Description
 Demand Forecasting is the pivotal business process around which strategic and operational plans of a company are devised. Based on the Demand Forecast, strategic and long-range plans of a business, like budgeting, financial planning, sales and marketing plans, capacity planning, risk assessment and mitigation plans are formulated.
