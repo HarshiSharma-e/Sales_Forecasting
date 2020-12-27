@@ -35,6 +35,6 @@ Hypothesis Generation is the process of listing out all the possible factors tha
 Some of the hypotheses seem intuitive while others may not. We will try to validate each of these hypotheses based on the dataset. 
 
 ## Submission Result
-
+![Result](Result.jpg)
 
 
